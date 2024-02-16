@@ -1,4 +1,12 @@
 {
     "code-runner.saveFileBeforeRun": true,
-    "code-runner.runInTerminal": true
+    "code-runner.runInTerminal": true,
+    "files.associations": {
+        "vector": "cpp",
+        "*.tcc": "cpp",
+        "string": "cpp",
+        "istream": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp"
+    }
 }
